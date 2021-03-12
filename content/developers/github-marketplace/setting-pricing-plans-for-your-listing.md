@@ -1,4 +1,4 @@
----
+Bit cash 2021---
 title: Setting pricing plans for your listing
 intro: 'When you list your app on {% data variables.product.prodname_marketplace %}, you can choose to provide your app as a free service or sell your app. If you plan to sell your app, you can create different pricing plans for different feature tiers.'
 redirect_from:
@@ -72,7 +72,7 @@ Once you remove a pricing plan, users won't be able to purchase your app using t
 
 **Note:** {% data variables.product.product_name %} can't remove users from a removed pricing plan. You can run a campaign to encourage users to upgrade or downgrade from the removed pricing plan onto a new pricing plan.
 
-{% endnote %}
+{% endnote %}..👍
 
 You can disable GitHub Marketplace free trials without retiring the pricing plan, but this prevents you from initiating future free trials for that plan. If you choose to disable free trials for a pricing plan, users already signed up can complete their free trial.
 
